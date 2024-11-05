@@ -1,12 +1,26 @@
 import type { NavMenuConfig } from "@/types";
 
 export const navMenuConfig: NavMenuConfig = {
+  links: [
+    {
+      title: "Servicios",
+      href: "/services",
+      description: "Example description",
+      image: "/images/examples/image.jpg",
+    },
+    {
+      title: "Cursos",
+      href: "/courses",
+      description: "Example description",
+      image: "/images/examples/image.jpg",
+    },
+  ],
   pagesNav: [
     {
       title: "Pages",
       items: [
         {
-          title: "Landing",
+          title: "Hola",
           href: "/landing",
           description: "A landing page template with differents sections.",
           image: "/images/examples/landing.jpg",
@@ -96,13 +110,5 @@ export const navMenuConfig: NavMenuConfig = {
         },
       ],
     },
-  ],
-  links: [
-    // {
-    //   title: "Example",
-    //   href: "/example",
-    //   description: "Example description",
-    //   image: "/images/examples/image.jpg",
-    // },
   ],
 };

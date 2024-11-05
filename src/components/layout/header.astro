@@ -2,27 +2,39 @@
 import { siteConfig } from "@/config/site";
 import { cn } from "@/lib/utils";
 import { Icon } from "astro-icon/components";
+import Image from "astro/components/Image.astro";
 
 type Props = {
   className?: string;
+  color?: string;
 };
 
-const { className } = Astro.props;
+const { className, color } = Astro.props;
 ---
+
+<!-- <div class="flex items-center justify-center h-10 w-full bg-orange-300">
+  <span class="pt-1 font-heading">Texto de prueba de banner</span>
+</div> -->
 
 <header
   class={cn(
-    "flex items-center h-16 md:h-18 z-50 sticky top-0 bg-background",
+    "flex items-center h-16 md:h-18 z-50",
     className
   )}
 >
-  <div class="relative container flex items-center justify-between w-full">
+  <div class="relative container flex items-center justify-center max-w-screen-lg">
     <div class="flex items-center gap-6 md:gap-8 lg:gap-10">
       <a href="/" class="hidden items-center space-x-2 md:flex">
-        <Icon name="stars-outline" class="size-8" />
-        <span class="hidden font-bold sm:inline-block">
+        <!-- <Icon name="stars-outline" class="size-8" /> -->
+        <!-- <span class="hidden font-['Radwave'] text-5xl sm:inline-block">
           {siteConfig.name}
-        </span>
+        </span> -->
+        <Image
+        width={300}
+        height={48}
+        src={`/logo-${color}.png`}
+        alt="logo"
+      />
       </a>
 
       <slot name="mobile-nav-header" />
@@ -34,10 +46,15 @@ const { className } = Astro.props;
 
     <!-- logo mobile center -->
     <div
-      class="absolute top-1/2 left-1/2 -translate-x-4 -translate-y-4 md:hidden"
+      class="absolute top-1/2 left-1/2 -translate-x-[90px] -translate-y-2 md:hidden"
     >
-      <a href="/" aria-label="Astronomy homepage">
-        <Icon name="stars-outline" class="size-8" />
+      <a href="/" aria-label="YAGUAR homepage">
+        <Image
+        width={300}
+        height={36}
+        src={`/logo-${color}.png`}
+        alt="logo"
+      />
       </a>
     </div>
 

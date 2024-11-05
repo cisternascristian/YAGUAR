@@ -1,0 +1,47 @@
+---
+title: "4 principios que nos ofrecen una solución para encontrar La Paz con el dinero"
+description: "Llevo más de 22 años trabajando, y después de muchas vueltas he podido encontrar una fórmula que me ha permitido dedicarme a lo que realmente amo. Te ofrezco una visión por donde comenzar para poder solucionar el gran problema del dinero sin sacrificar tu misión en el mundo."
+category: "dinero"
+cover: "/post_dinero.jpg"
+pubDate: "Nov 4 2024"
+---
+### Trabaja pronto porque así te quedará gustando el dinero; mientras antes, mejor
+
+Cuando tenía 11 años quería comprar cables, cuerdas y uñetas para mi guitarra eléctrica, pero mis papás se complicaban con gastar plata en esas cosas. Odiaba quedarme con un “no” como respuesta, así que me busqué una chamba, encontré un trabajo cuidando autos en el estacionamiento de una feria cerca de mi casa los días sábados. Más tarde, a los 15, empecé a trabajar como empaquetador en un supermercado, de lunes a viernes, todos los días después del colegio. Otras veces complementaba formateando el computador de algún cercano. Era sacrificado, pero siempre tenía mi “independencia” y me daba mis gustos.
+
+Gracias a Dios, esto nunca fue un problema para mis papás, pero he visto que es un problema para muchos padres. No dejan que sus hijos trabajen hasta que tengan unos 24 años con título en mano. Cualquier trabajo antes es un peligro, pues… “les puede quedar gustando la plata”, como si fuera el peor de los males.
+
+### La realidad es que no saber de dinero te hace un esclavo de la carrera de la rata
+
+Robert Kiyosaki ha popularizado esta metáfora financiera que es muy acertada: imagínate una rata en su rueda de ejercicio, girando infinitamente, esforzándose sin parar y sin llegar a ninguna parte. ¿Ya lo tienes en la mente? Bueno, esa es la realidad financiera de la mayoría de la población: trabajar para ganar dinero, con ese dinero pagar deudas, quedarse sin dinero y tener que volver a trabajar. Es un loop infinito; la vida pasa y no se hizo nada realmente trascendental.
+
+Una vez que nos damos cuenta de que esta carrera de la rata es el peor deal, nacen todo tipo de vertientes para salir de ahí. Algunos se centran en el ahorro, otros en inversiones, en crear empresas, en empezar como auto-empleado, y muchas opciones más. Todas son válidas.
+
+Cuando tenía 18 años, fue la primera vez que entré a un trabajo estable con contrato. Por “pituto” fui presionado por mi familia para tomar un puesto de ingeniería en la casa matriz del Metro de Santiago. Era un buen trabajo, bien pagado, requería poco esfuerzo, con metro y taxis privados gratis, pero yo simplemente lo odiaba. Cumplir un horario, tener un jefe de carácter estresante, que me miraran en menos, entre otras cosas; nada de eso era para mí. Y ahí me di cuenta:
+
+### ¿Para esto voy a estudiar una carrera por cinco años?
+
+En la casa todos me decían con pasión y esperanza: “¡Ahorra esa plata! Con eso podrás pagar una carrera universitaria, sacar tu título y así seguir escalando.” Y yo pensaba “Ahhh, sí…”. Con mi primer sueldo fui corriendo a comprar mis monitores de estudio de grabación, una guitarra Fender Telecaster, un controlador MIDI, entre otros sueños de GAS (Gear Acquisition Syndrome) que tenía desde hace tiempo. Esto fue a finales de 2009 y principios de 2010; en esos tiempos, que alguien de 18-19 años lograra esa solvencia y comprara esos equipos, era el “sueño del pibe”.
+
+Tenía que aprovechar el momento, era ahora o nunca; tenía que comprar esas cosas, porque esperar seis años para sacar una carrera y recién obtenerlo era una locura.
+
+Estaba desesperado; no podía ser que la vida se tratara de tanto sufrimiento para poder hacer lo que realmente quieres, y si es que te quedan ganas para ese entonces… porque veo que muchos estudian la supuesta “carrera de respaldo” y después se quedan pegados en el respaldo para siempre, los sueños todos por la borda. Pude probar el sistema sin tener que pasar por estudiar la carrera, y no me gustaba para nada lo que veía, lo único bueno era esa sensación de seguridad en la paga de fin de mes para darte algunos gustos, pero a cambio de algo mucho más preciado: tu alma.
+
+### Cuando eres consciente de que estás siendo absorbido por la Matrix y deseas de corazón no caer en eso, entonces llega el milagro
+
+Yo sabía que había algo más. Resistí, y entonces, un día… de la nada me llama un famoso productor musical que consiguió mi número, me ofrece una oportunidad increíble, y la tomé. Cuento corto: renuncié al trabajo de ingeniero, me dediqué 100% a la producción musical, me invitaron a viajar a México con todo pagado para producir un álbum, y en unos dos meses gané tres veces más de lo que había ganado trabajando cinco meses angustiado en la oficina.
+
+Desde entonces, nunca volví a tener un empleo. No digo que todo el mundo deba hacerlo, pero definitivamente hay mucho más allá del trabajo tradicional. Dedicarte al arte, insistir en tus sueños, ser independiente, aceptar la incertidumbre, soltar el control y entregarte a la vida; todo eso, a mi gusto, trae una recompensa mayor.
+
+Al día de hoy no soy millonario ni un súper caso de éxito, pero tengo mi alma en paz. Tengo mis propios horarios, me muevo libremente, cada día me siento como si estuviera de vacaciones y tengo tiempo para abarcar todas las áreas de riqueza de la vida misma. Siempre tengo trabajo y participo en proyectos de impacto masivo, para que te hagas una idea, he trabajado con multinacionales de la publicidad y también en política “donde las papas queman”. He participado en proyectos creativos que han influido en decisiones de nivel nacional.
+
+No es fácil, pero tengo plena certeza de que he tomado el camino correcto. Aún me queda mucho por delante; de hecho, esta historia que te cuento fue hace más de 14 años, y hoy todavía siento que apenas comienzo. Sin embargo, he descubierto 4 pilares que al mantenerlos en equilibrio, sostienen y desarrollan el área maestra del dinero en nuestra vida:
+
+* **Finanzas**: Hay que saber trabajar con el dinero, aprender todo lo técnico: ahorrar, invertir, sacar cuentas bancarias que te permitan recibir grandes sumas de dinero, tener capacidad para hacer y recibir pagos internacionales, formalizarse para pagar impuestos, trabajar con un contador, tener sistemas de tracking, entre otros. Y además, hay que tener una educación profunda de mindset, aprender cómo piensan los millonarios, cómo ser abundante en pensamiento, sentimiento y acción. Limpiar y estrujar el cerebro de toda la porquería de pensamientos de pobreza, porque sí, la pobreza es un sistema de creencias que te mantiene carente y te autodestruye. Si somos buenas personas, las finanzas nos ayudarán a hacer más bien. Si somos malas personas, las finanzas nos destruirán. Las finanzas son un amplificador de quienes somos para el mundo.
+* **Carrera profesional**: Tienes que ser muy bueno en una cosa y convertirte en el mejor en eso, luego ya puedes pasar a otra cosa y así. Debemos transitar el camino de la maestría. Olvídate de ser un especialista; eso es de muy poco impacto. Dios a cada uno nos ha dado talentos; simplemente hay que enfocarse en multiplicarlos. El talento, cuando se trabaja, influye en todas las áreas de la vida, por eso debemos ser maestros, dedicarnos a algo que amamos y a la vez ayuda a los demás.
+* **Lifestyle**: Nuestra vida debe ser una película, y somos el director encargado de convertirla en un éxito de taquilla. ¿Quién financiará esto? El universo. Así que, si tienes un estilo de vida genial, que no te quepa duda de que los recursos económicos llegarán para hacerlo posible.
+* **Visión**: Debemos tener una filosofía respecto al dinero que nos permita hacer el bien al mundo e influya en todos los ámbitos de la vida. El dinero trae éxito en la salud y el amor, por eso una vez que lo recibimos, debemos encontrar mecanismos para repartirlo también a nuestro entorno, por ejemplo, dándole trabajo a alguien. Si somos capaces de ayudar de verdad a los demás, es imposible que no nos vaya bien. En cambio, si no ayudamos a nadie, entonces siempre estaremos sujetos a la pobreza y tendremos que optar por la supervivencia en empleos donde seremos simples engranajes. El que más sirve al mundo es el que más gana. Debemos tener una visión rica sobre el servicio; es lo que dejará nuestra huella en el mundo, todo lo demás es circunstancial.
+
+En conclusión, el dinero es importante y es un área maestra de la vida, pero lo que quiero transmitir es que el enfoque no es el dinero, ni menos una carrera universitaria o perseguir la supervivencia, sino algo mucho más profundo y arriesgado: vivir amando lo que se hace día a día, amar la vida e impactar el mundo, y para eso… hay que empezar cuanto antes.
+
+En los siguientes blogs estaré profundizando en cada uno de los cuatro pilares de esta área maestra. ¡Gracias por llegar hasta aquí!

@@ -1,0 +1,80 @@
+---
+import Footer from "@/components/layout/footer.astro";
+import Header from "@/components/layout/header.astro";
+import { cn } from "@/lib/utils";
+import BaseLayout from "./base-layout.astro";
+import Socials from "@/components/socials.astro";
+import { getCategories, getPosts } from "@/lib/fetchers";
+import { badgeVariants } from "@/components/ui/badge";
+import type { CollectionEntry } from "astro:content";
+import HeaderCard from "@/components/cards/header-card.astro";
+
+const categories = await getCategories();
+const posts = await getPosts();
+
+type Props = CollectionEntry<"blog">;
+const post = Astro.props;
+const { category } = Astro.params;
+---
+
+<BaseLayout title={post.data.title} description={post.data.description} og={post.data.cover}>
+  <section class="bg-cover bg-center w-full h-screen"
+  style={`background-image: url(${post.data.cover})`}
+  transition:name={`img-${post.slug}`}>
+    <div class="bg-gradient-to-b from-stone-700/10 to-stone-950/50 h-screen">
+      <Header
+        className="flex border-b max-w-[90%] ml-[5%] border-white"
+        color="white"
+      >
+        <div
+          class="absolute right-10 md:flex items-center gap-x-3 hidden text-white"
+          slot="right-header"
+        >
+          <Socials />
+        </div>
+      </Header>
+
+      <div class="ml-[5%] py-1 md:py-4"
+      transition:name="barracategories">
+        <div class="flex items-center justify-between mt-4 max-md:gap-4">
+          {
+            categories?.length ? (
+              <ul class="flex snap-x snap-mandatory overflow-auto items-center space-x-2 lg:space-x-2.5 pb-2">
+                {categories.map((item) => (
+                  <li class="shrink-0 snap-start">
+                    <a
+                      href={`/blog/category/${item}`}
+                      class={cn(
+                        "capitalize",
+                        item === category ? "select-none" : "",
+                        badgeVariants({
+                          variant: item === category ? "default" : "header",
+                          radius: "md",
+                        })
+                      )}
+                    >
+                      {item}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <div />
+            )
+          }
+
+          <!-- <Searchbox client:load /> -->
+        </div>
+      </div>
+      
+      <div class="absolute bottom-4 lg:bottom-24"><HeaderCard {...post}/></div>
+      
+    </div>
+  </section>
+
+  <main class={cn()}>
+    <slot />
+  </main>
+
+  <Footer />
+</BaseLayout>

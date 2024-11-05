@@ -1,43 +1,45 @@
 import type { SidebarNavItem, SiteConfig } from "@/types";
 
 export const siteConfig: SiteConfig = {
-  name: "Astronomy",
+  name: "YAGUAR",
   description:
-    "An modern example app built using Astro v4 & shadcn/ui. Inspired by shadcn/taxonomy.",
-  url: "https://astro-nomy.vercel.app",
+    "Productor musical",
+  url: "https://yaguar.net",
   ogImage: "https://astro-nomy.vercel.app/og.jpg",
   links: {
-    twitter: "https://twitter.com/miickasmt",
-    github: "https://github.com/mickasmt/astro-nomy",
+    youtube: 'https://www.youtube.com/@yaguarproduciendo',
+    instagram: 'https://www.instagram.com/yaguarlife',
+    discord: 'https://discord.com/invite/YDXAwSkzKk',
+    spotify: 'https://open.spotify.com/intl-es/artist/6GimfoNBOH2EQQSO7eDrNE'
   },
 };
 
 export const footerLinks: SidebarNavItem[] = [
   {
-    title: "Company",
+    title: "Redes Sociales",
     items: [
-      { title: "About", href: "#" },
-      { title: "Enterprise", href: "#" },
-      { title: "Partners", href: "#" },
-      { title: "Jobs", href: "#" },
+      { title: "YouTube", href: "https://www.youtube.com/@yaguarproduciendo"},
+      { title: "Instagram", href: "https://www.instagram.com/yaguarlife" },
+      { title: "Discord", href: "https://discord.com/invite/YDXAwSkzKk" },
+      { title: "Spotify", href: "https://open.spotify.com/intl-es/artist/6GimfoNBOH2EQQSO7eDrNE" },
     ],
   },
-  {
-    title: "Product",
-    items: [
-      { title: "Security", href: "#" },
-      { title: "Customization", href: "#" },
-      { title: "Customers", href: "#" },
-      { title: "Changelog", href: "#" },
-    ],
-  },
-  {
-    title: "Docs",
-    items: [
-      { title: "Introduction", href: "#" },
-      { title: "Installation", href: "#" },
-      { title: "Components", href: "#" },
-      { title: "Code Blocks", href: "#" },
-    ],
-  },
+  // {
+  //   title: "Product",
+  //   items: [
+  //     { title: "Security", href: "#" },
+  //     { title: "Customization", href: "#" },
+  //     { title: "Customers", href: "#" },
+  //     { title: "Changelog", href: "#" },
+  //   ],
+  // },
+  // {
+  //   title: "Docs",
+  //   items: [
+  //     { title: "Introduction", href: "#" },
+  //     { title: "Installation", href: "#" },
+  //     { title: "Components", href: "#" },
+  //     { title: "Code Blocks", href: "#" },
+  //   ],
+  // },
 ];

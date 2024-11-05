@@ -34,8 +34,12 @@ export type SiteConfig = {
   url: string;
   ogImage: string;
   links: {
-    twitter: string;
-    github: string;
+    twitter?: string;
+    github?: string;
+    instagram?: string;
+    youtube?: string;
+    discord?: string;
+    spotify?: string;
   };
 };
 

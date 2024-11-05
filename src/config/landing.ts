@@ -2,26 +2,32 @@ import type { InfoLdg } from "@/types";
 
 export const infos: InfoLdg[] = [
   {
-    title: "Empower your projects",
+    title: "YAGUAR - Productor Musical",
     description:
-      "Unlock the full potential of your projects with our open-source SaaS platform. Collaborate seamlessly, innovate effortlessly, and scale limitlessly.",
-    image: "/images/blog/placeholder-about.jpg",
+      "Bienvenido, aquí podrás encontrar noticias sobre lo que he estado haciendo y los servicios que ofrezco.",
+    image: "/images/yaguar_1.png",
     list: [
       {
-        title: "Collaborative",
-        description: "Work together with your team members in real-time.",
-        icon: "lucide:laptop",
+        title: "Cursos de producción musical",
+        description: "Aprende de producción musical.",
+        icon: "lucide:audio-lines",
       },
       {
-        title: "Innovative",
-        description: "Stay ahead of the curve with access constant updates.",
-        icon: "lucide:settings",
+        title: "Servicios",
+        description: "Consigue tu beat, master o mix personalizado.",
+        icon: "lucide:disc-album",
       },
       {
-        title: "Scalable",
+        title: "Membresía",
         description:
-          "Our platform offers the scalability needed to adapt to your needs.",
-        icon: "lucide:search",
+          "Mucho texto",
+        icon: "lucide:users",
+      },
+      {
+        title: "Portafolio",
+        description:
+          "Conoce mi trabajo.",
+        icon: "lucide:briefcase",
       },
     ],
   },

@@ -1,23 +1,35 @@
 ---
-import ExampleGrid from "@/components/example-grid.astro";
-import PageHeader from "@/components/page-header.astro";
-import { navMenuConfig } from "@/config/nav-menu";
 import MainLayout from "@/layouts/main-layout.astro";
+import BlogHeader from "@/components/blog-header.astro";
+import BlogCard from "@/components/cards/blog-card.astro";
+import { getPosts } from "@/lib/fetchers";
+import { Image } from "astro:assets";
+import { hobbies } from "@/config/about.ts";
+import { Button } from "@/components/ui/button";
+import { Icon } from "astro-icon/components";
+import InfoLanding from "@/components/sections/info-landing.astro";
+import Testimonials from "@/components/sections/testimonials.astro";
+import { infos } from "@/config/landing";
 
-const examples = navMenuConfig.examplesNav[0].items;
-const pages = navMenuConfig.pagesNav[0].items;
+const posts = await getPosts();
+// const posts = todos.slice(1)
 ---
 
-<MainLayout title="">
-  <div class="bg-background-200">
-    <section class="container py-12">
-      <PageHeader
-        heading="Discovery"
-        text="Differents pages and examples apps built with Astro v4.5, shadcn/ui & react js. Fully Open Source."
-      />
+<MainLayout title="Inicio" description="Blog de Yaguar">
+  <div class="bg-background">
+    <!-- <InfoLanding data={infos[0]} reverse={true} /> -->
+    <section class="container max-w-screen-lg py-10">
 
-      <ExampleGrid title="Pages" items={pages} />
-      <ExampleGrid title="Examples Apps" items={examples} />
+      <BlogHeader title="Blog"/>
+
+      <div
+      class="grid grid-cols-1 gap-x-6 gap-y-9 md:gap-y-11 lg:gap-y-16 lg:gap-x-8"
+    >
+      {posts.map((post: any) => <BlogCard {...post} />)}
+    </div>
+      
     </section>
+
+    <!-- <Testimonials /> -->
   </div>
 </MainLayout>

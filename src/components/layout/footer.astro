@@ -1,9 +1,10 @@
 ---
-import { NewsletterForm } from "@/components/forms/newsletter-form";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { footerLinks, siteConfig } from "@/config/site";
 import { cn } from "@/lib/utils";
 import { Icon } from "astro-icon/components";
+
+const today = new Date();
 
 type Props = {
   className?: string;
@@ -13,7 +14,7 @@ const { className } = Astro.props;
 ---
 
 <footer class={cn("border-t", className)}>
-  <div
+  <!-- <div
     class="container grid grid-cols-1 gap-6 py-14 sm:grid-cols-2 md:grid-cols-5"
   >
     {
@@ -37,48 +38,54 @@ const { className } = Astro.props;
         </div>
       ))
     }
-    <div class="flex flex-col items-end md:col-span-2">
-      Form Newsletter coming soon!
-      <!-- <NewsletterForm client:only="react" /> -->
-    </div>
-  </div>
+  </div> -->
 
   <div class="border-t py-4">
     <div class="container flex items-center justify-between">
       <!-- <span class="text-muted-foreground text-sm">
         Copyright &copy; 2024. All rights reserved.
       </span> -->
-      <p class="text-left text-sm text-muted-foreground">
-        Built by{" "}
-        <a
-          href={siteConfig.links.twitter}
-          target="_blank"
-          rel="noreferrer"
-          class="font-medium underline underline-offset-4"
-        >
-          mickasmt
+      <p class="text-black text-md font-mono">
+        <span class="">&copy; {today.getFullYear()} YAGUAR | </span>
+        <a href="mailto:hi@yaguar.net" class="transition duration-300 hover:text-yellow-500">
+           hi@yaguar.net
         </a>
-        . Hosted on{" "}
-        <a
-          href="https://vercel.com"
-          target="_blank"
-          rel="noreferrer"
-          class="font-medium underline underline-offset-4"
-        >
-          Vercel
-        </a>.
       </p>
 
       <div class="flex items-center gap-3">
         <a
-          href={siteConfig.links.github}
+          href={siteConfig.links.youtube}
           target="_blank"
           rel="noreferrer"
           class="font-medium underline underline-offset-4"
         >
-          <Icon name="github" class="size-5" />
+          <Icon name="youtube" class="size-8" />
         </a>
-        <ThemeToggle client:load />
+        <a
+          href={siteConfig.links.instagram}
+          target="_blank"
+          rel="noreferrer"
+          class="font-medium underline underline-offset-4"
+        >
+          <Icon name="instagram" class="size-6" />
+        </a>
+        <a
+          href={siteConfig.links.discord}
+          target="_blank"
+          rel="noreferrer"
+          class="font-medium underline underline-offset-4"
+        >
+          <Icon name="discord" class="size-8" />
+        </a>
+        <a
+          href={siteConfig.links.spotify}
+          target="_blank"
+          rel="noreferrer"
+          class="font-medium underline underline-offset-4"
+        >
+          <Icon name="spotify" class="size-6" />
+        </a>
+        <!-- <ThemeToggle client:load /> -->
       </div>
     </div>
   </div>

@@ -14,6 +14,7 @@ module.exports = {
     },
     extend: {
       fontFamily: {
+        logo: ["Radwave", ...fontFamily.sans],
         sans: ["Inter", ...fontFamily.sans],
         heading: ["CalSans Semibold", ...fontFamily.sans],
       },
