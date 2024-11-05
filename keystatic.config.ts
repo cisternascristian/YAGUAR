@@ -39,8 +39,8 @@ export default config({
           }),
         cover: fields.image({
           label: "Cover",
-          directory: "public/",
-          publicPath: "/",
+          directory: "public/blog/",
+          publicPath: "/blog/",
           validation: { isRequired: true },
         }),
         content: fields.mdx({
