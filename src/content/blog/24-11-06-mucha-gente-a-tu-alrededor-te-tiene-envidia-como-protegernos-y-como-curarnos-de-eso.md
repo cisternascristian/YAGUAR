@@ -1,0 +1,70 @@
+---
+title: >-
+  Mucha gente a tu alrededor te tiene envidia. ¿Cómo protegernos y cómo curarnos
+  de eso?
+description: >-
+  La envidia muchas veces puede ser algo que ni siquiera percibimos de los
+  demás, es mejor así, pero siempre debemos poner atención y hacer algo al
+  respecto si nos damos cuenta de su acecho. Aquí te comparto una perspectiva
+  vibracional y métodos prácticos.
+category: Desarrollo personal
+pubDate: Wed Nov 06 2024
+cover: >-
+  /blog/24-11-06-mucha-gente-a-tu-alrededor-te-tiene-envidia-como-protegernos-y-como-curarnos-de-eso/cover.jpg
+---
+Si tienes algo de valor, es seguro que mucha gente te tenga envidia. Si has logrado superar un obstáculo que pocos logran, seguramente tienes muchos envidiosos alrededor.
+
+La envidia es algo natural en la sociedad y ocurre más de lo que creemos. Esto es así porque estamos en tiempos donde la gente es demasiado egocéntrica.
+
+### ¿Y qué tiene que ver el ego con la envidia?
+
+Cuando tienes mucho ego, te cuesta admirar, te cuesta reconocer el valor de los demás; te olvidas de que son tus hermanos, trabajando para ti y para el mundo, y solo te centras en que son competidores, alguien a quien deberías aplastar.
+
+La competencia no es mala; hasta cierto punto, es tremendamente saludable, pero si solo te enfocas en eso por ego, entonces te auto-destruirás.
+
+Como dicen por ahí: "La gente quiere que te vaya bien, pero no mejor que a ellos". O sea, todo el tiempo escuchamos deseos de que nos vaya excelente, que lo logremos todo, pero cuando eso se cumple, cuando formamos nuestro propio camino, nuestra propia vida, cuando nos libramos al fin de las cadenas de la esclavitud… ahhh, ahí empiezan los problemas.
+
+### Una emoción mal canalizada, es solo eso
+
+Para mí, la raíz del problema de la envidia es que es un sentimiento de admiración mal expresado. Las personas, en vez de simplemente fluir, aceptarte, quererte, reconocerte por tu valor y darse la gran oportunidad de inspirarse para salir adelante también, han cometido el grave error de enturbiarse, de decirle "no" a todas esas bendiciones, y así es como estas se pudren. No hay peor error que rechazar las bendiciones del cielo.
+
+### ¿Cómo protegernos de la envidia?
+
+Primero, entender que es un error interno que han cometido los demás; han elegido un mal camino en la forma de canalizar sus emociones. Siempre que hagas algo grande, un logro, un impacto, generarás movimientos energéticos en el mundo. Es imposible que los demás no se vean afectados; es como una especie de efecto dominó que se genera con la energía, y todo se va reacomodando de alguna manera. Por lo tanto, todos tenemos la responsabilidad de darle una dirección a esos movimientos; nadie se salva de esto.
+
+Debemos aprender a ver con empatía y comprensión a los demás. Cuando sintamos que están experimentando la envidia, tenemos algunas opciones:
+
+### Tomar distancia
+
+Simplemente aléjate lo necesario; no dejes que esa vibración te alcance de vuelta a ti, porque, si no, la envidia, al contagiarte, podría arruinar tus planes. Esto será difícil cuando ocurra con personas que queremos mucho, como nuestros familiares más cercanos; incluso los padres podrían experimentarlo. Es terrible, pero es la realidad es que también son humanos. Debes encontrar formas de tomar distancia y que sean saludables; cuenta menos, comparte lo estrictamente necesario.
+
+### Penaliza
+
+Esto quiere decir que si una persona toma este mal camino, entonces demuéstrale que así perderá la relación contigo. Ya no le confíes tus intimidades, tus alegrías, tus sueños. No tienes que declararlo directamente; simplemente disminuye la confianza al punto en que se sienta que has trazado un límite, y ya está.
+
+Si la otra persona realmente quiere mantener tu amistad, entonces se esforzará en corregirlo. Es una estrategia que a veces puede funcionar muy bien. Es un grave error permitir que la gente te envidie gratis; no, no, no, tienes que hacerles ver que eso contigo no está bien. Debes aprender a imponer tus límites. Debes ser como Goku de Dragon Ball; muchos de sus enemigos con el tiempo se convirtieron en sus amigos, aliados y partners de pelea.
+
+### Utiliza la envidia como combustible para escalar más alto
+
+Una técnica más avanzada, pero debes usarla con cuidado y poco a poco. Cuando la gente te envía su energía negativa, siempre tienes la oportunidad de sublimarla y convertirla en luz; ojo con esto, convertirla en luz, o sea crear algo nuevo, por nada en el mundo devolverla, así solo saldrás trasquilado, el karma es duro. Debes ser capaz de que esa energía fluya a través de ti **sin absorberla** y utilizarla como fuerza para crear algo nuevo. Si intentas esto y te quedas sin energía, agotado, de mal humor o algo parecido, entonces es porque la has absorbido ¿ves? todo mal haha, por eso te digo que es una técnica avanzada.
+
+Como cualquier tipo de energía negativa, siempre existe la oportunidad de sublimarla; todos tenemos esa capacidad, pero es difícil y puede ser peligroso. Yo sugiero optar siempre por los primeros dos métodos; de alguna manera, esos también son vías de sublimación. Si sientes la oportunidad de darle una vuelta a esa energía y la intuición te dice que es el momento correcto para hacerlo, entonces adelante, actúa con determinación, inspírate y utiliza esa envidia como motivación para seguir escalando. Llegarás tan alto que los demás ya no podrán alcanzarte; estarás en paz, y la envidia se habrá sublimado en una nueva realidad, una nueva vibración donde todo es mejor y más próspero.
+
+Por último, ahora que ya sabes cómo funciona esto de la envidia desde una perspectiva más "vibracional", empieza por ti: no sientas envidia. Aprende a canalizar las bendiciones, aprende a admirar a tus hermanos en el mundo, sé humilde, inspírate de sus cualidades únicas, dales el valor y espacio que merecen, entrégales tu apoyo e impúlsalos para que lleguen lejos en su propio camino, incluso déjalos volar libres si ese camino ya no es junto a ti. Cada alma tiene su espacio en este mundo. Te volverás rico.
+
+¡Gracias por llegar hasta aquí!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
