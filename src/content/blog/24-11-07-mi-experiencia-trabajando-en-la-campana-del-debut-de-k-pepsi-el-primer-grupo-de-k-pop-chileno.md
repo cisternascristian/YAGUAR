@@ -81,7 +81,7 @@ Solo había un problema… el master de la canción que yo había enviado lo re-
 
 ### Más de 4.7 millones de visualizaciones en YouTube
 
-Una vez que re-programé mi cerebro para hacer como que no existían todos esos detalles técnicos, me dispuse a disfrutar el resultado final. **La campaña fue un tremendo éxito**. Primera vez que participaba en algo de alcance tan masivo. La canción sonaba en cada tanda de comerciales en cualquier canal de TV durante toda la jornada, también en las radios, en redes sociales, tendencia en Twitter (ahora X), y había gigantografías de la publicidad por todas las ciudades y carreteras ¡era algo realmente genial!
+Una vez que re-programé mi cerebro para hacer como que no existían todos esos detalles técnicos –que quizás solo yo en el planeta era capaz de darme cuenta– me dispuse a disfrutar el resultado final. **La campaña fue un tremendo éxito**. Primera vez que participaba en algo de alcance tan masivo. La canción sonaba en cada tanda de comerciales en cualquier canal de TV durante toda la jornada, también en las radios, en redes sociales, tendencia en Twitter (ahora X), y había gigantografías de la publicidad por todas las ciudades y carreteras ¡era algo realmente genial!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/li4PZAikogc?si=ig8SfdIvstHKpg1j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
