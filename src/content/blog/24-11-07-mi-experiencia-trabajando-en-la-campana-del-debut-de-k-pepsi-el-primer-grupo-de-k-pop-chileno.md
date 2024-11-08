@@ -69,7 +69,7 @@ Yo me sentía superado y frustrado. Aprendí mucho sobre la industria con esta e
 
 Si hubiera tenido más experiencia como hoy, habría logrado un resultado diferente, porque habría logrado encontrar un equilibrio donde los ejecutivos quedaran contentos de entrada y luego, estratégicamente, encontrar espacios donde rellenar con el arte para que no fuera tan desalmado el resultado final.
 
-Tuvimos 2 semanas para hacer la producción de la canción y luego otras 2 semanas de cambios interminables. Creo que llegamos a la versión número 30 y algo. Quienes me conocen, saben cuánto odio trabajar con versiones, pero aquí no me quedaba otra opción que acoplarme a toda la enorme cadena de proceso de producción de la campaña, donde, irónicamente, yo, que hacía toda la música, era el último en toda la cadena. Intenté hacer todo lo posible para rescatar el máximo arte posible.
+Tuvimos 2 semanas para hacer la producción de la canción y luego otras 2 semanas de cambios interminables. Creo que llegamos a la versión número 30 y algo. Quienes me conocen, saben cuánto odio trabajar con versiones, pero aquí no me quedaba otra opción que acoplarme a toda la enorme cadena de proceso de producción de la campaña, donde, irónicamente, yo, que hacía toda la música, era el último en toda la cadena. Intenté hacer todo lo que pude para rescatar el máximo arte posible.
 
 Unas semanas después viene lo bueno: sale el comercial con un grupo de chicos doblando sobre la canción. Por fin conocía al grupo viendo el spot. Todo esto, el equipo de producción lo armó en tiempo récord; realmente fue una gran hazaña.
 
@@ -90,18 +90,3 @@ Para un creador, es un aspecto importantísimo que la madre apoye su carrera o, 
 Abrí esta historia con el mundo espiritual, luego me fui a las cosas del mundo material, y cierro con el mundo espiritual nuevamente. Aquí, en nuestra patria celestial, es donde están todas las respuestas. Las cosas del mundo no suceden porque sí; todo se manifiesta conforme a los designios superiores.
 
 ¡Gracias por llegar hasta aquí!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
