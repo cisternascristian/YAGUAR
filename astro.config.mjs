@@ -13,6 +13,7 @@ import markdoc from "@astrojs/markdoc";
 export default defineConfig({
   site: "https://yaguar.net",
   integrations: [mdx({
+    extendMarkdownConfig: true,
     syntaxHighlight: "shiki",
     shikiConfig: {
       theme: "github-dark-dimmed",
@@ -20,7 +21,10 @@ export default defineConfig({
     gfm: true,
   }), icon(), sitemap(), react(), tailwind({
     applyBaseStyles: false,
-  }), simpleStackForm(), markdoc(), keystatic()],
+  }), simpleStackForm(), markdoc({
+    allowHTML: true,
+  }    
+  ), keystatic()],
   output: "hybrid",
   adapter: vercel({
     webAnalytics: { enabled: true },

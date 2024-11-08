@@ -1,6 +1,8 @@
 ---
 import BlogPostLayout from '@/layouts/blog-post.astro';
 import { getCollection, type CollectionEntry } from 'astro:content';
+import Comments from '@/components/comments.astro';
+import PageHeader from "@/components/page-header.astro";
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
@@ -25,4 +27,7 @@ if (!slug || !post) {
 ---
 <BlogPostLayout {...post}>
 	<Content />
+	<div class="pt-4"/>
+	<PageHeader heading="Comentarios"/>
+	<Comments />
 </BlogPostLayout>

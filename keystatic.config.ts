@@ -1,13 +1,16 @@
-import { config, fields, collection } from "@keystatic/core";
+import { config, fields, collection, component } from "@keystatic/core";
+import { block } from "@keystatic/core/content-components";
+
+const isDev = false;
 
 export default config({
-    ui: {
-        brand: {
-          name: 'YAGUAR',
-          },
-        },
+  ui: {
+    brand: {
+      name: "YAGUAR",
+  },
+},
   storage: {
-    kind: "github",
+    kind:  isDev ? "local" : "github",
     repo: "cisternascristian/YAGUAR"
   },
   collections: {
@@ -15,7 +18,7 @@ export default config({
       label: "Posts",
       slugField: "title",
       path: "src/content/blog/*",
-      entryLayout: 'content',
+      entryLayout: "content",
       format: { contentField: "content" },
       schema: {
         title: fields.slug({
@@ -27,26 +30,39 @@ export default config({
         description: fields.text({
           label: "Descripción",
           validation: { isRequired: true },
+          multiline: true,
         }),
         category: fields.text({
           label: "Categoría",
           validation: { length: { min: 2 }, isRequired: true },
         }),
         pubDate: fields.text({
-            label: "Fecha",
-            defaultValue: `${new Date().toDateString()}`,
-            validation: { isRequired: true},
-          }),
+          label: "Fecha",
+          defaultValue: `${new Date().toDateString()}`,
+          validation: { isRequired: true },
+        }),
         cover: fields.image({
           label: "Cover",
           directory: "public/blog/",
           publicPath: "/blog/",
           validation: { isRequired: true },
         }),
-        content: fields.mdx({
-            label: "Contenido",
-            extension: "md",
-          }),
+        content: fields.markdoc({
+          label: "Contenido",
+          extension: "md",
+          components: {
+            youtube: block({
+              label: "YouTube",
+              description: "Vídeo de YouTube",
+              schema: {
+                id: fields.text({ label: "ID del vídeo" }),
+              },
+              // NodeView: ({}) => (
+              //   <YouTube id="" />
+              // ),
+            }),
+          },
+        }),
       },
     }),
   },
