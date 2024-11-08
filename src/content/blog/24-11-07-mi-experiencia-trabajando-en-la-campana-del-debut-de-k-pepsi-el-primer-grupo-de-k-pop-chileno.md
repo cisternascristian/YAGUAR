@@ -57,7 +57,7 @@ A los días, por fin conozco al productor detrás del teléfono: me viene a ver 
 
 Llegó con un chileno-coreano que trabajaba en algo nada que ver con la música, pero le gustaba cantar. Sabía hablar coreano perfecto, tenía buena interpretación vocal y, además, buenas ideas musicales. Tendríamos resuelto el gran desafío de lograr la letra en coreano y de interpretarla.
 
-Esa tarde nos pusimos a trabajar y dejamos toda una estructura lista. Se envió a la agencia y aquí vinieron los problemas… ¡pidieron 872357823878723782352783578235782 cambios!
+Esa tarde nos pusimos a trabajar y dejamos toda una estructura lista, cantamos todo entre los tres, sí, tal como lo lees, yo canté varias partes haha. Se envió la propuesta a la agencia y aquí vinieron los problemas… ¡pidieron 872357823878723782352783578235782 cambios!
 
 Nos juntamos una vez más, cambiamos todo lo que habían pedido. ¿Y el problema? Ahora la canción empezaba a sonar muy rarífica. Claramente, estos cambios no los pedía gente que sabía de música, sino de publicidad y marketing.
 
