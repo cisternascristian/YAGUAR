@@ -8,6 +8,7 @@ import { defineConfig } from "astro/config";
 import simpleStackForm from "simple-stack-form";
 import keystatic from '@keystatic/astro'
 import markdoc from "@astrojs/markdoc";
+import { component } from '@astrojs/markdoc/config';
 
 // https://astro.build/config
 export default defineConfig({
@@ -23,6 +24,17 @@ export default defineConfig({
     applyBaseStyles: false,
   }), simpleStackForm(), markdoc({
     allowHTML: true,
+    tags: {
+      YouTube: {
+        render: component('./src/components/youtube.tsx'),
+        attributes: {
+          src: {
+            type: String,
+            required: true
+          },
+        }
+      },
+    }
   }    
   ), keystatic()],
   output: "hybrid",

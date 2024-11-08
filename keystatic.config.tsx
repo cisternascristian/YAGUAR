@@ -1,7 +1,10 @@
+import VideoPlayer from "@/components/embeds";
+import YouTubePlayer  from "@/components/youtube";
 import { config, fields, collection, component } from "@keystatic/core";
 import { block } from "@keystatic/core/content-components";
+import { Clapperboard, Code } from "lucide-react";
 
-const isDev = false;
+const isDev = true;
 
 export default config({
   ui: {
@@ -49,18 +52,33 @@ export default config({
         }),
         content: fields.markdoc({
           label: "Contenido",
-          extension: "md",
           components: {
-            youtube: block({
+            YouTube: block({
               label: "YouTube",
+              icon: <Clapperboard />,
               description: "Vídeo de YouTube",
               schema: {
-                id: fields.text({ label: "ID del vídeo" }),
+                src: fields.text({ label: "URL del vídeo" }),
               },
-              // NodeView: ({}) => (
-              //   <YouTube id="" />
-              // ),
+              ContentView: (props: any) => {
+                return (
+                  <YouTubePlayer {...props} client:load />
+                )
+              },
             }),
+            Video: block({
+              label: "Vídeo",
+              icon: <Code />,
+              description: "Embed de CDN",
+              schema: {
+                src: fields.text({ label: "URL del vídeo" }),
+              },
+              ContentView: (props: any) => {
+                return (
+                  <VideoPlayer {...props} />
+                )
+          },
+        }),
           },
         }),
       },
