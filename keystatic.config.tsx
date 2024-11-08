@@ -4,7 +4,7 @@ import { config, fields, collection, component } from "@keystatic/core";
 import { block } from "@keystatic/core/content-components";
 import { Clapperboard, Code } from "lucide-react";
 
-const isDev = true;
+const isDev = false;
 
 export default config({
   ui: {
