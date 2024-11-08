@@ -15,7 +15,7 @@ En una época pasada, durante mis 20s, considero que yo era un mal trabajador. N
 
 Dicho esto, en febrero de 2020 ya venía de una era muy hippie. Trabajaba lo mínimo, sobrevivía con 10 USD al mes, estaba en la renuncia de lo material, llevaba una vida ascética. Para que te hagas una idea, estaba hecho un monje.
 
-Entonces, un día de ese verano me llega una señal en mi corazón: era tiempo de comenzar a trabajar. Ahora sí me sentía preparado para abordar una nueva etapa laboral en mi vida. Comencé a rezar y le pedí a Dios que me diera trabajo, en lo que fuera; ya estaba preparado para afrontarlo. Terminé de rezar y, una hora más tarde… me llaman:
+Entonces, un día de ese verano me llega una señal en mi corazón: era tiempo de comenzar a trabajar. Ahora sí me sentía preparado para abordar una nueva etapa laboral en mi vida. Comencé a rezar y le pedí a Dios que me diera trabajo, en lo que fuera; ya estaba preparado para afrontarlo. Terminé de rezar y, una hora más tarde… un cliente del que no sabía hace años me llama:
 
 *"¿Estás disponible para abordar una campaña? Necesito 10 jingles para la próxima semana."*
 
