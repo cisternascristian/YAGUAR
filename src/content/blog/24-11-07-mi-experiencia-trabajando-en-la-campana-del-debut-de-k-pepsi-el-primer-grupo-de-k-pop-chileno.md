@@ -51,7 +51,7 @@ Y yo: "¡Wow… creí que esto ya había quedado en el olvido!"
 
 Yo: "Uhhh… eso sí que será un desafío". Entonces me dispuse a terminar de producir bien el beat.
 
-\<div style="position:relative;padding-top:56.25%;">\<iframe src="https\://iframe.mediadelivery.net/embed/243744/057623ce-47c0-459b-841e-42075f9d9344?autoplay=false\&loop=false\&muted=false\&preload=true\&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true">\</iframe>\</div>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/243744/057623ce-47c0-459b-841e-42075f9d9344?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
 A los días, por fin conozco al productor detrás del teléfono: me viene a ver al estudio el gran Sonido Ácido. Formó parte del conocido grupo Makiza y es el creador de la popular serie chilena Pulentos.
 
@@ -79,7 +79,7 @@ Solo había un problema… el master de la canción que yo había enviado lo re-
 
 Una vez que re-programé mi cerebro para hacer como que no existían todos esos detalles técnicos, me dispuse a disfrutar el resultado final. **La campaña fue un tremendo éxito**. Primera vez que participaba en algo de alcance tan masivo. La canción sonaba en cada tanda de comerciales en cualquier canal de TV durante toda la jornada, también en las radios, en redes sociales, tendencia en Twitter (ahora X), y había gigantografías de la publicidad por todas las ciudades y carreteras ¡era algo realmente genial!
 
-\<iframe width="560" height="315" src="https\://www\.youtube.com/embed/li4PZAikogc?si=ig8SfdIvstHKpg1j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>\</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/li4PZAikogc?si=ig8SfdIvstHKpg1j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Un abrazo desde el Cielo
 
