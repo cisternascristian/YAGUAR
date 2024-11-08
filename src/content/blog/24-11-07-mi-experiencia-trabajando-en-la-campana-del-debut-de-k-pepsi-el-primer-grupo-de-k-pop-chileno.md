@@ -65,11 +65,15 @@ Se envía la nueva propuesta y la respuesta de la agencia es que ahora ¡estaba 
 
 Luego, empezaron a llegar otra tanda de emails solicitando más y más cambios. Cada vez el resultado quedaba peor, pero a la agencia le convencía más. Esto ya salía de nuestro control como equipo de producción musical; eran los mismos directorios ejecutivos quienes hacían las solicitudes, y la canción, en cada cambio, iba perdiendo el arte hasta que ya era un simple jingle de lo más publicitario.
 
-Yo me sentía superado y frustrado. Aprendí mucho sobre la industria con esta experiencia. Al final, en el mundo de la publicidad, lo importante es hacer lo que te piden; aquí tienes que olvidarte del arte como prioridad y aprender en qué momentos tienes una ventana para poder aplicar todo el arte posible. Sí, a veces hay momentos donde puedes poner el arte, y hay que aprovecharlos al máximo, pero lo primero es convencer a todo el área ejecutiva.
+Yo me sentía superado y frustrado. Aprendí mucho sobre la industria con esta experiencia. Al final, en el mundo de la publicidad, lo importante es hacer lo que te piden; aquí tienes que olvidarte del arte como prioridad y aprender en qué momentos tienes una ventana para sí poder aplicar todo el arte que se pueda. Sí, a veces hay momentos donde puedes poner el arte, y hay que aprovecharlos al máximo, pero lo primero es convencer a todo el área ejecutiva.
 
 Si hubiera tenido más experiencia como hoy, habría logrado un resultado diferente, porque habría logrado encontrar un equilibrio donde los ejecutivos quedaran contentos de entrada y luego, estratégicamente, encontrar espacios donde rellenar con el arte para que no fuera tan desalmado el resultado final.
 
 Tuvimos 2 semanas para hacer la producción de la canción y luego otras 2 semanas de cambios interminables. Creo que llegamos a la versión número 30 y algo. Quienes me conocen, saben cuánto odio trabajar con versiones, pero aquí no me quedaba otra opción que acoplarme a toda la enorme cadena de proceso de producción de la campaña, donde, irónicamente, yo, que hacía toda la música, era el último en toda la cadena. Intenté hacer todo lo que pude para rescatar el máximo arte posible.
+
+Esta lección de los cambios interminables fue tan impactante para mí, que al día de hoy, hacer una propuesta me puede llegar a tomar apenas 1 hora, la aprueban de inmediato como versión final y al siguiente día está sonando por todos los medios. Al fin ya tengo el training de publicista.
+
+### Las sorpresas aún no acaban
 
 Unas semanas después viene lo bueno: sale el comercial con un grupo de chicos doblando sobre la canción. Por fin conocía al grupo viendo el spot. Todo esto, el equipo de producción lo armó en tiempo récord; realmente fue una gran hazaña.
 
