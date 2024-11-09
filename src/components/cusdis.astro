@@ -1,9 +1,4 @@
 ---
-// interface Props {
-//   pageUrl: string;
-//   pageId: string;
-// }
-// const { pageUrl, pageId } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
 const slug = Astro.params.slug;
 ---
@@ -24,5 +19,5 @@ const slug = Astro.params.slug;
   data-page-url={canonicalURL}
   data-page-title="El blog"
 ></div>
-<script is:inline src="https://cusdis.com/js/widget/lang/es.js"></script>
+<!-- <script is:inline src="https://cusdis.com/js/widget/lang/es.js"></script> -->
 <script async src="https://cusdis.com/js/cusdis.es.js"></script>

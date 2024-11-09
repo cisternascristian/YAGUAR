@@ -1,7 +1,7 @@
 ---
 import BlogPostLayout from '@/layouts/blog-post.astro';
 import { getCollection, type CollectionEntry } from 'astro:content';
-import Comments from '@/components/comments.astro';
+import Cusdis from '@/components/cusdis.astro';
 import PageHeader from "@/components/page-header.astro";
 
 export async function getStaticPaths() {
@@ -29,5 +29,5 @@ if (!slug || !post) {
 	<Content />
 	<div class="pt-4"/>
 	<PageHeader heading="Comentarios"/>
-	<Comments />
+	<Cusdis />
 </BlogPostLayout>

@@ -1,6 +1,6 @@
 import VideoPlayer from "@/components/embeds";
 import YouTubePlayer  from "@/components/youtube";
-import { config, fields, collection, component } from "@keystatic/core";
+import { config, fields, collection } from "@keystatic/core";
 import { block } from "@keystatic/core/content-components";
 import { Clapperboard, Code } from "lucide-react";
 
@@ -61,10 +61,17 @@ export default config({
                 src: fields.text({ label: "URL del vídeo" }),
               },
               ContentView: (props: any) => {
-                return (
-                  <YouTubePlayer {...props} client:load />
-                )
-              },
+                const { src } = props.value;
+  if (!src) {
+    return (
+      <p>Ingresa el ID del vídeo</p>
+    );
+  }
+
+  return (
+    <YouTubePlayer src={src} />
+  )
+              }
             }),
             Video: block({
               label: "Vídeo",
@@ -74,10 +81,17 @@ export default config({
                 src: fields.text({ label: "URL del vídeo" }),
               },
               ContentView: (props: any) => {
-                return (
-                  <VideoPlayer {...props} />
-                )
-          },
+                const { src } = props.value;
+  if (!src) {
+    return (
+      <p>Ingresa el link del vídeo</p>
+    );
+  }
+
+  return (
+    <VideoPlayer src={src} />
+  )
+              },
         }),
           },
         }),
